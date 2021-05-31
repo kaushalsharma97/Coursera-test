@@ -13,4 +13,4 @@ Flask-login -- Flask-login library provides various functionality such as login,
 
 Apart form these libraries of python i have used Html and css alongwith some bootstrap classes.
 
-Note- This social blog site mainly focuses on functionality and database managemnet or we can say Backend priortized.
+Note- This social blog site mainly focuses on functionality and database management or we can say Backend priortized and firstly install requirement file.
